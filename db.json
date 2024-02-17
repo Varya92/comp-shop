@@ -5,6 +5,12 @@
             "name": "Varya",
             "surname": "Dmitrets",
             "balance": 1500
+        },
+        {
+            "id": 2,
+            "name": "Denis",
+            "surname": "Puhachevskyi",
+            "balance": 1500
         }
     ]
 }
