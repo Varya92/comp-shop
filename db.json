@@ -63,6 +63,12 @@
             "ddr": "333",
             "color": "rgb",
             "description": "Vitaliy cho ti el na zavtrak? Bylochka s sociskoy, buterbrodom i pryaniki do chay"
+        },
+        {
+            "name": "SSD",
+            "price": "300$",
+            "color": "lgbt",
+            "description": "Zgorit na sled den"
         }
     ]
 }
