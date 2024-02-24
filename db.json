@@ -31,7 +31,7 @@
             "price": "3000000000000000$",
             "socket": "Intel 99999+1",
             "TDP": "750000000",
-            "Chip-set": "Ulta Ukraine 3000 gram sala",
+            "chip-set": "Ulta Ukraine 3000 gram sala",
             "description": "stereotypic Ukraine LIMITED PREMIUM SUPER PUPER Gorilka edition"
         },
         {
@@ -49,6 +49,13 @@
             "TDP": "500w",
             "chipset": "z770",
             "description": "materinka ultra promax top"
+        },
+        {
+        "name": "Case Bye",
+        "price": "0.99$",
+        "form-factor": "ULTRA MEGA ATEIST(t)",
+        "color": "black night in some's hole",
+        "description": "Englisk is the capital of Grate Ukraine"
         }
         
     ]
