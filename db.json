@@ -51,12 +51,18 @@
             "description": "materinka ultra promax top"
         },
         {
-        "name": "Case Bye",
-        "price": "0.99$",
-        "form-factor": "ULTRA MEGA ATEIST(t)",
-        "color": "black night in some's hole",
-        "description": "Englisk is the capital of Grate Ukraine"
+            "name": "Case Bye",
+            "price": "0.99$",
+            "form-factor": "ULTRA MEGA ATEIST(t)",
+            "color": "black night in some's hole",
+            "description": "Englisk is the capital of Grate Ukraine"
+        },
+        {
+            "name": "RAM",
+            "price": "10000$",
+            "ddr": "333",
+            "color": "rgb",
+            "description": "Vitaliy cho ti el na zavtrak? Bylochka s sociskoy, buterbrodom i pryaniki do chay"
         }
-        
     ]
 }
