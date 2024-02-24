@@ -17,6 +17,12 @@
             "name": "Sasha",
             "surname": "Volevach",
             "balance": 1500
+        },
+        {
+            "id": 4,
+            "name": "Mark",
+            "surname": "Rublev",
+            "balance": 1500
         }
     ]
 }
