@@ -41,6 +41,14 @@
             "TDP": "vsem sosny na noviy god",
             "memory type": "GDDR 777X ULTRA PRO : MAKS = 1000-7",
             "description": "1488 let maininga"
-        }
+        },
+        {
+            "name": "Motherborad",
+            "price": "5000$",
+            "socket": "am300",
+            "TDP": "500w",
+            "chipset": "z770",
+            "description": "materinka ultra promax top"
+        },
     ]
 }
