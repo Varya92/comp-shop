@@ -11,6 +11,12 @@
             "name": "Denis",
             "surname": "Puhachevskyi",
             "balance": 1500
+        },
+        {
+            "id": 3,
+            "name": "Sasha",
+            "surname": "Volevach",
+            "balance": 1500
         }
     ]
 }
