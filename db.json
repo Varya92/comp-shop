@@ -26,6 +26,8 @@
         }
     ],
     "products": [
-        
+        {
+            "processors": "Intel Zeon"
+        }
     ]
 }
