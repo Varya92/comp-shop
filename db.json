@@ -28,7 +28,7 @@
     "products": [
         {
             "name": "Processor",
-            "price": "300000$",
+            "price": "1000$",
             "socket": "Intel 999+1",
             "tdp": "75000W",
             "chipset": "3000 gram sala",
@@ -36,15 +36,15 @@
         },
         {
             "name": "Graphics card",
-            "price": "301488.99$",
-            "memory": "1488 Gb Ultra",
+            "price": "2500$",
+            "memory": "1945Gb Ultra",
             "tdp": "1488w",
             "memory type": "GDDR 777X Pro Max",
             "description": "1488 let maininga"
         },
         {
             "name": "Motherborad",
-            "price": "5000$",
+            "price": "800$",
             "socket": "am300",
             "tdp": "500w",
             "chipset": "z1488",
@@ -52,24 +52,24 @@
         },
         {
             "name": "Case Bye",
-            "price": "0.99$",
+            "price": "150$",
             "form-factor": "Ultra mega ATX",
-            "color": "black night in some's hole",
+            "color": "Night blue",
             "description": "Englisk is the capital of Grate Ukraine"
         },
         {
             "name": "RAM",
-            "price": "10000$",
-            "Mhz": "",
+            "price": "100$",
+            "Mhz": "6400mhz",
             "ddr": "333",
             "color": "rgb",
             "description": "Bylochka s sociskoy"
         },
         {
             "name": "SSD",
-            "price": "300$",
+            "price": "100$",
             "type": "M2",
-            "color": "lgbt",
+            "color": "black",
             "description": "Zgorit na sled den"
         }
     ]
