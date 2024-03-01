@@ -1,1 +1,2 @@
-# comp-shop
+# Comp-shop is in development right now...
+## The end is coming soon ;)
