@@ -27,7 +27,7 @@
     ],
     "products": [
         {
-            "id": "0",
+            "id": 0,
             "name": "Processor",
             "price": "1000$",
             "socket": "Intel 999+1",
@@ -36,7 +36,7 @@
             "description": "Limited Premium Super Puper Gorilka edition"
         },
         {
-            "id": "1",
+            "id": 1,
             "name": "Graphics card",
             "price": "2500$",
             "memory": "1945Gb Ultra",
@@ -45,7 +45,7 @@
             "description": "1488 let maininga"
         },
         {
-            "id": "2",
+            "id": 2,
             "name": "Motherborad",
             "price": "800$",
             "socket": "am300",
@@ -54,7 +54,7 @@
             "description": "materinka ultra promax top"
         },
         {
-            "id": "3",
+            "id": 3,
             "name": "Case Bye",
             "price": "150$",
             "form-factor": "Ultra mega ATX",
@@ -71,7 +71,7 @@
             "description": "Bylochka s sociskoy"
         },
         {
-            "id": "5",
+            "id": 5,
             "name": "SSD",
             "price": "100$",
             "type": "M2",
