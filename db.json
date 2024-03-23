@@ -27,56 +27,56 @@
     ],
     "products": [
         {
-            "id": 0,
             "name": "Processor",
             "price": "1000$",
             "socket": "Intel 999+1",
             "tdp": "75000W",
             "chipset": "3000 gram sala",
-            "description": "Limited Premium Super Puper Gorilka edition"
+            "description": "Limited Premium Super Puper Gorilka edition",
+            "id": 0
         },
         {
-            "id": 1,
             "name": "Graphics card",
             "price": "2500$",
             "memory": "1945Gb Ultra",
             "tdp": "1488w",
             "memory type": "GDDR 777X Pro Max",
-            "description": "1488 let maininga"
+            "description": "1488 let maininga",
+            "id": 1
         },
         {
-            "id": 2,
             "name": "Motherborad",
             "price": "800$",
             "socket": "am300",
             "tdp": "500w",
             "chipset": "z1488",
-            "description": "materinka ultra promax top"
+            "description": "materinka ultra promax top",
+            "id": 2
         },
         {
-            "id": 3,
             "name": "Case Bye",
             "price": "150$",
             "form-factor": "Ultra mega ATX",
             "color": "Night blue",
-            "description": "Englisk is the capital of Grate Ukraine"
+            "description": "Englisk is the capital of Grate Ukraine",
+            "id": 3
         },
         {
-            "id": "4",
             "name": "RAM",
             "price": "100$",
             "Mhz": "6400mhz",
             "ddr": "333",
             "color": "rgb",
-            "description": "Bylochka s sociskoy"
+            "description": "Bylochka s sociskoy",
+            "id": 4
         },
         {
-            "id": 5,
             "name": "SSD",
             "price": "100$",
             "type": "M2",
             "color": "black",
             "description": "Zgorit na sled den"
+            "id": 5
         }
     ]
 }
